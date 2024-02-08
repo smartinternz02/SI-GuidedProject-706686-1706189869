@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>AmazonSigin_CheckPoint</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>Data_driven_test/Test_Case.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>TestCaseSignIn</sheet-name-or-separator>
+      <is-using-relative-path>true</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2024-02-08T20:05:36.277</taken-date>
+   <column-names>
+      <column-name>Email ID</column-name>
+      <column-name>Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "ravisaiece@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "Ravi@RIET@1812",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "keylogertest7@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "Keyloger!23",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

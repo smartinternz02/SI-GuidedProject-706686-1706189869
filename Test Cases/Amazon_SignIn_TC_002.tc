@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sign in</description>
+   <name>Amazon_SignIn_TC_002</name>
+   <tag>SignIn</tag>
+   <comment></comment>
+   <testCaseGuid>70bcd455-8dba-4799-8536-3aff4014979d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>19d2178f-0f0e-466a-9b07-e40962613271</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc51afa5-96a5-439a-a29c-b2abde59fe6d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ravisaiece@gmail.com'</defaultValue>
+      <description></description>
+      <id>19d2178f-0f0e-466a-9b07-e40962613271</id>
+      <masked>false</masked>
+      <name>UserID</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ravi@RIET@1812'</defaultValue>
+      <description></description>
+      <id>fc51afa5-96a5-439a-a29c-b2abde59fe6d</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

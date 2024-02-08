@@ -30,7 +30,7 @@
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/AmazonSigupData/Amazon_signup_testData</testDataId>
+         <testDataId>Data Files/AmazonData/Amazon_signup_testData</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
