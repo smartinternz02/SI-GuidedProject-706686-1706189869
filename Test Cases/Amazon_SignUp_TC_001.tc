@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>user register into new account</description>
+   <name>Amazon_SignUp_TC_001</name>
+   <tag>Singup</tag>
+   <comment></comment>
+   <testCaseGuid>adb0ad8c-1e8c-4736-818e-a6e09e1130c9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ce7bd9d-a291-4bd7-a34a-f8dc1613ee4c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f27a622d-589b-4ccd-8c1c-25eb01076398</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f4a7aa9-f53b-4adb-a96d-1d3175818a5f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'keylogertest7@gmail.com'</defaultValue>
+      <description>userid for new register</description>
+      <id>5ce7bd9d-a291-4bd7-a34a-f8dc1613ee4c</id>
+      <masked>false</masked>
+      <name>userId</name>
+   </variable>
+   <variable>
+      <defaultValue>'Keyloger!23'</defaultValue>
+      <description>Password</description>
+      <id>f27a622d-589b-4ccd-8c1c-25eb01076398</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Keyloger!23'</defaultValue>
+      <description>Reenter Passsword</description>
+      <id>1f4a7aa9-f53b-4adb-a96d-1d3175818a5f</id>
+      <masked>false</masked>
+      <name>Confirm</name>
+   </variable>
+</TestCaseEntity>
