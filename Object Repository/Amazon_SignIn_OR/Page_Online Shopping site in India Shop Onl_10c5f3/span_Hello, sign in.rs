@@ -6,6 +6,10 @@
    <elementGuidId>b1df9aad-71f3-4cab-8f17-5c67fe2b4e3e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'nav-link-accountList-nav-line-1' and (text() = 'Hello, sign in' or . = 'Hello, sign in')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#nav-link-accountList-nav-line-1</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>//span[@id='nav-link-accountList-nav-line-1']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

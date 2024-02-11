@@ -36,5 +36,3 @@ WebUI.click(findTestObject('Object Repository/Amazon_SignIn_OR/Page_Amazon Sign 
 
 WebUI.click(findTestObject('Object Repository/Amazon_SignIn_OR/Page_Online Shopping site in India Shop Onl_10c5f3/a_in'))
 
-WebUI.closeBrowser()
-

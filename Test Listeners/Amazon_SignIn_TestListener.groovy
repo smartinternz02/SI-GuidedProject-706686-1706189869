@@ -31,7 +31,7 @@ class Amazon_Signin_TestListeners {
 	def sampleBeforeTestCase(TestCaseContext testCaseContext) {
 		WebUI.openBrowser('')
 		
-		WebUI.navigateToUrl('https://www.amazon.com/')
+//		WebUI.navigateToUrl('https://www.amazon.com/')
 	}
 
 	/**
