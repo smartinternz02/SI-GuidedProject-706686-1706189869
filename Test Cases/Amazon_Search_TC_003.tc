@@ -22,7 +22,7 @@
       <description></description>
       <id>de166bda-2a38-4f48-8026-e5ed20a621cd</id>
       <masked>false</masked>
-      <name>books</name>
+      <name>Value</name>
    </variable>
    <variable>
       <defaultValue>'Da vinci code'</defaultValue>

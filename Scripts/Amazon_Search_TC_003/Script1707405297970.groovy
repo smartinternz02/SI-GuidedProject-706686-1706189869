@@ -33,12 +33,10 @@ WebUI.delay(10)
 // Check if the user name element is present
 // Need to modify here: use the userName variable instead of findTestObject method
 WebUI.selectOptionByValue(findTestObject('Object Repository/Amazon_Search_OR/Page_Online Shopping site in India Shop Onl_10c5f3/select_All Categories        Alexa Skills  _a62561'), 
-    books, true)
+    Value, true)
 
 WebUI.setText(findTestObject('Object Repository/Amazon_Search_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords'), 
-    'Da vinci code')
+    searchItem)
 
 WebUI.click(findTestObject('Object Repository/Amazon_Search_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button'))
-
-WebUI.closeBrowser()
 

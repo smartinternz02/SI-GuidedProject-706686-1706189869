@@ -32,7 +32,7 @@ if (WebUI.verifyElementPresent(findTestObject('Object Repository/Amazon_Cart_OR/
 }
 
 WebUI.setText(findTestObject('Object Repository/Amazon_Cart_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords'), 
-    Item1)
+    searchItem1)
 
 WebUI.click(findTestObject('Object Repository/Amazon_Cart_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button'))
 
@@ -42,7 +42,7 @@ WebUI.switchToWindowTitle('The Da Vinci Code (Abridged Edition) [Paperback] Brow
 
 WebUI.click(findTestObject('Object Repository/Amazon_Cart_OR/Page_The Da Vinci Code (Abridged Edition) P_54f610/input_Quantity_submit.add-to-cart'))
 
-WebUI.setText(findTestObject('Amazon_Cart_Results_OR/Amazon_Search_Page/input_Search Amazon.in_field-keywords'), item2)
+WebUI.setText(findTestObject('Amazon_Cart_Results_OR/Amazon_Search_Page/input_Search Amazon.in_field-keywords'), searchitem2)
 
 WebUI.click(findTestObject('Amazon_Cart_Results_OR/Amazon_Search_Page/input_Search Amazon.in_nav-search-submit-button'))
 
@@ -52,17 +52,9 @@ WebUI.switchToWindowIndex(2)
 
 WebUI.click(findTestObject('Amazon_Cart_Results_OR/Page_Motorola razr 40/Add_to _Cart'))
 
+WebUI.click(findTestObject('Amazon_Cart_Results_OR/Motorola razr 40_close/a-page_close'))
+
 WebUI.delay(4)
-
-WebUI.setText(findTestObject('Amazon_Cart_Results_OR/Amazon_Search_Page/input_Search Amazon.in_field-keywords'), item3)
-
-WebUI.click(findTestObject('Amazon_Cart_Results_OR/Amazon_Search_Page/input_Search Amazon.in_nav-search-submit-button'))
-
-WebUI.switchToWindowIndex(3)
-
-WebUI.click(findTestObject('Amazon_Cart_Results_OR/Oneplus ear buds/span_OnePlus Nord Buds 2 TWS'))
-
-WebUI.click(findTestObject('Amazon_Cart_Results_OR/Page_OnePlus Nord Buds 2 TWS/Add_TO_Cart'))
 
 WebUI.closeBrowser()
 

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='search']/div/div/div/span/div/div[2]/div/div/span/div/div/div/div[2]/div/div/div/h2/a/span</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Results'])[1]/following::span[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
