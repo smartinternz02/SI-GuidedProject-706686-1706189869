@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Frana</name>
+   <tag></tag>
+   <elementGuidId>45b374f3-d863-40bc-b747-96092fd42528</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.navFooterLine.navFooterLinkLine.navFooterPadItemLine.navFooterLineDivider > ul</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navFooter']/div[4]/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>e2fc15ee-5747-4951-8cd8-7825fbf893cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AustráliaAlemanhaCanadáChinaCingapuraEspanhaEstados UnidosFrançaHolandaÍndiaItáliaJapãoMéxicoPolôniaEmirados Árabes UnidosReino UnidoTurquia</value>
+      <webElementGuid>79a0657e-61f9-478b-acd7-c92873245f02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navFooter&quot;)/div[@class=&quot;navFooterLine navFooterLinkLine navFooterPadItemLine navFooterLineDivider&quot;]/ul[1]</value>
+      <webElementGuid>cb7eac72-05b3-415f-bd0e-3850bafea41a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navFooter']/div[4]/ul</value>
+      <webElementGuid>9c67982b-8129-48d0-88f6-98b95d9a8ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajuda'])[1]/following::ul[1]</value>
+      <webElementGuid>532c1e4d-85d2-4eca-b2a9-0383f80ab969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gerencie seu conteúdo e dispositivos'])[2]/following::ul[1]</value>
+      <webElementGuid>ada7cd2c-11fa-461a-9d13-006e2a55f8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul</value>
+      <webElementGuid>1cdba576-adff-4050-8d5c-44fdcf9c129d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'AustráliaAlemanhaCanadáChinaCingapuraEspanhaEstados UnidosFrançaHolandaÍndiaItáliaJapãoMéxicoPolôniaEmirados Árabes UnidosReino UnidoTurquia' or . = 'AustráliaAlemanhaCanadáChinaCingapuraEspanhaEstados UnidosFrançaHolandaÍndiaItáliaJapãoMéxicoPolôniaEmirados Árabes UnidosReino UnidoTurquia')]</value>
+      <webElementGuid>e08f4f1b-5ee2-4633-8c92-d86d23f4943c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

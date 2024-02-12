@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Amazon_Footer_TC_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f845195-96f9-47f0-9b26-f638e4ca3298</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0da5728a-31fd-473a-a307-16ec359aaf09</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>0da5728a-31fd-473a-a307-16ec359aaf09</id>
+      <masked>false</masked>
+      <name>timeout</name>
+   </variable>
+</TestCaseEntity>
